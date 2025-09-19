@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">cardfolio</string>
+
+
+    <!-- Labels -->
+    <string name="card_name_label">Name</string>
+    <string name="card_hobby_label">Hobby</string>
+    <string name="card_age_label">Age</string>
+    <string name="card_age_warning">Numbers only.</string>
+
+    <!-- Buttons -->
+    <string name="button_edit">Edit</string>
+    <string name="button_show">Show</string>
+
+    <!-- Chips -->
+    <string name="chip_editing">Editing</string>
+    <string name="chip_locked">Locked</string>
+
+    <!-- Toasts -->
+    <string name="toast_saved">Saved successfully!</string>
+    <string name="toast_missing_prefix">Missing</string>
 </resources>
